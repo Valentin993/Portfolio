@@ -30,8 +30,8 @@ export default function Header() {
         }}
         className="container px-4"
       >
-        <nav className="flex items-center justify-between flex-wrap">
-          <div>
+        <nav className="flex items-center justify-end lg:justify-between flex-wrap">
+          <div className="hidden lg:block">
             <Link href="/">
               <Image
                 className="opacity-60 hover:opacity-100"
@@ -59,7 +59,7 @@ export default function Header() {
             <Link href="/contact-form">Contact</Link>
           </div>
 
-          <div className="flex flex-col lg:hidden relative">
+          <div className="flex flex-col lg:hidden relative pt-3">
             <Link href="#" onClick={toggleMenu}>
               <Image
                 src={hm}
