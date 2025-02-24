@@ -38,7 +38,7 @@ export default function Contact() {
     }
   }
   return (
-    <div className="container py-[60px] px-4">
+    <div className="container py-[40px] px-4">
       <div className="flex flex-wrap">
         <motion.div
           initial="hidden"

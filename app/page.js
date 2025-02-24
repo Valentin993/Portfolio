@@ -54,7 +54,7 @@ export default function Home() {
             >
               <Spline scene="https://prod.spline.design/yR-YBrXEg7y4i3mt/scene.splinecode" />
 
-              <div className="absolute bottom-5 right-5 w-[150px] h-9 bg-[#040f16]"></div>
+              <div className="absolute bottom-5 right-5 w-[150px] h-9 bg-[#0b151e]"></div>
             </motion.div>
 
             <motion.div
@@ -203,7 +203,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="pt-[100px] pb-[200px]">
+        <section className="shadow-inner-custom3 pt-[100px] pb-[200px]">
           <div className="container px-4">
             <motion.div
               initial={{ opacity: 0, scale: 0 }}
