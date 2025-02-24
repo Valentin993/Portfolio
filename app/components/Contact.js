@@ -71,7 +71,7 @@ export default function Contact() {
               <span className="block text-4xl md:text-5xl lg:text-6xl 2xl:text-8xl text-[#FFFFFF]/[.30] font-[AllertaStencil]">
                 Get in
               </span>
-              <span className="block text-3xl md:text-4xl lg:text-5xl 2xl:text-7xl text-[#FFFFFF]/[.60] font-bold pl-[95px] md:pl-[115px] lg:pl-[150px] 2xl:pl-[250px] ">
+              <span className="block text-5xl md:text-6xl 2xl:text-7xl text-[#FFFFFF]/[.60] font-bold pt-2 lg:pl-[150px] 2xl:pl-[250px] ">
                 Touch
               </span>
             </h2>
@@ -103,7 +103,7 @@ export default function Contact() {
               />
             </div>
 
-            <div className="flex justify-end px-12 lg:px-0 mb-16 lg:mb-0">
+            <div className="flex justify-end px-12 lg:px-0 mb-4 lg:mb-0">
               <div className="border-2 border-white-500 text-[#FFFFFF]/[.70] font-medium xl:font-semibold xl:text-xl text-center pt-[7px] xl:pt-3 rounded-[30px] w-[150px] h-[40px] mt-7 xl:w-[200px] xl:h-[56px] xl:mt-[40px] hover:border-sky-500 hover:text-sky-500 active:bg-sky-700">
                 <button type="submit">SUBMIT MESSAGE</button>
               </div>
