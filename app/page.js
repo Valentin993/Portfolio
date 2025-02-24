@@ -203,7 +203,7 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="shadow-inner-custom3 pt-[100px] pb-[200px]">
+        <section className=" pt-[100px] pb-[200px]">
           <div className="container px-4">
             <motion.div
               initial={{ opacity: 0, scale: 0 }}
