@@ -71,7 +71,7 @@ export default function Home() {
                   transition: { delay: 0.7 },
                 },
               }}
-              className="flex justify-center py-10 ml-4 lg:hidden"
+              className="flex justify-center py-10 lg:hidden"
             >
               <Image src={shape} alt="" width="200" height="200"></Image>
             </motion.div>
@@ -90,7 +90,7 @@ export default function Home() {
                   transition: { delay: 0.9 },
                 },
               }}
-              className="text-center lg:text-start text-2xl xl:text-3xl font-bold text-[#FFFFFF]/[.70] mx-[150px]"
+              className="text-center lg:text-start text-lg md:text-xl xl:text-3xl font-bold text-[#FFFFFF]/[.70] mx-[150px]"
             >
               <span className="block">Crafting Digital Identities </span>
               <span className="block">with Design & Development</span>
@@ -131,7 +131,7 @@ export default function Home() {
                   transition: { delay: 1 },
                 },
               }}
-              className="text-4xl md:text-5xl pt-4 text-center lg:hidden"
+              className="text-3xl md:text-4xl pt-4 text-center lg:hidden"
             >
               <span className="text-[#FFFFFF]/[.10] font-[AllertaStencil]">
                 Valentin Maystorovski
@@ -154,7 +154,7 @@ export default function Home() {
               }}
               className="text-center mt-5 mb-5"
             >
-              <h3 className="text-2xl text-[#FFFFFF]/[.25] font-[AllertaStencil]">
+              <h3 className="text-lg lg:text-2xl text-[#FFFFFF]/[.25] font-[AllertaStencil]">
                 WEB DESIGNER & DEVELOPER
               </h3>
             </motion.div>
