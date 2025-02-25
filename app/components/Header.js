@@ -31,7 +31,7 @@ export default function Header() {
         className="container px-4"
       >
         <nav className="flex items-center justify-end lg:justify-between flex-wrap">
-          <div className="hidden lg:block">
+          <div className="hidden lg:block transform transition duration-300 hover:scale-105">
             <Link href="/">
               <Image
                 className="opacity-60 hover:opacity-100"
@@ -55,7 +55,7 @@ export default function Header() {
             </li>
           </ul>
 
-          <div className="hidden lg:flex border-0 text-black bg-[#D9D9D9]/[.20] font-bold text-xl xl:text-2xl px-5 py-2 rounded-2xl hover:bg-[#D9D9D9]/[.50] hover:text-[#FFFFFF]/[.50]">
+          <div className="hidden lg:flex border-0 text-black bg-[#D9D9D9]/[.20] font-bold text-xl xl:text-2xl px-5 py-2 rounded-2xl hover:bg-[#D9D9D9]/[.50] hover:text-[#FFFFFF]/[.50] transform transition duration-300 hover:scale-105">
             <Link href="/contact-form">Contact</Link>
           </div>
 
