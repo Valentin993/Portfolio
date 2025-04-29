@@ -82,7 +82,7 @@ export default function Projects() {
                   href="https://spectrum-cocktail-bar.vercel.app/"
                   target="_blank"
                 >
-                  Concept for Music WebSite
+                  Concept for Bar WebSite
                 </Link>
               </div>
             </div>
