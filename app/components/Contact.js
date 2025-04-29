@@ -125,7 +125,7 @@ export default function Contact() {
               transition: { delay: 0.6 },
             },
           }}
-          className="bg-[#1C2331] py-[20px] px-[20px] w-6/12 hidden lg:block "
+          className="bg-[#1C2331] py-[20px] px-[20px] w-6/12 hidden lg:block"
         >
           <div className="flex justify-end opacity-20 hover:opacity-50 duration-300 ease-in-out hover:-translate-y-0.5">
             <Link href="/">

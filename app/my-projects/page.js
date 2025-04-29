@@ -78,7 +78,10 @@ export default function Projects() {
               />
 
               <div className="text-xl lg:text-2xl font-[AllertaStencil] bg-[#040F16]/[.50] mt-[50px] lg:mt-[70px] rounded-2xl w-[250px] h-[80px] lg:w-[470px] lg:h-[80px] text-center py-1 lg:pt-[23px] hover:bg-green-800 hover:text-zinc-300">
-                <Link href="https://musicfy-nine.vercel.app/" target="_blank">
+                <Link
+                  href="https://spectrum-cocktail-bar.vercel.app/"
+                  target="_blank"
+                >
                   Concept for Music WebSite
                 </Link>
               </div>
