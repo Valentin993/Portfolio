@@ -57,15 +57,15 @@ export default function Projects() {
               <Image
                 src={wp}
                 alt=""
-                className=" w-[300px] h-[200px] lg:w-[420px] lg:h-[250px]"
+                className=" w-[300px] h-[200px] lg:w-[420px] lg:h-[250px] rounded-lg shadow-sm shadow-black"
               />
 
               <div className="text-xl lg:text-2xl font-[AllertaStencil] bg-[#040F16]/[.50] mt-[50px] lg:mt-[70px] rounded-2xl w-[250px] h-[80px] lg:w-[470px] lg:h-[80px] text-center py-1 lg:pt-[23px] hover:bg-green-800 hover:text-zinc-300">
                 <Link
-                  href="https://the-path-of-analog-synthesizer.vercel.app/"
+                  href="https://burger-shop-three.vercel.app/"
                   target="_blank"
                 >
-                  Concept for Book WebSite
+                  Concept for Burger-Shop WebSite
                 </Link>
               </div>
             </div>
@@ -74,7 +74,7 @@ export default function Projects() {
               <Image
                 src={wpm}
                 alt=""
-                className=" w-[300px] h-[200px] lg:w-[420px] lg:h-[250px]"
+                className=" w-[300px] h-[200px] lg:w-[420px] lg:h-[250px] rounded-lg shadow-sm shadow-black"
               />
 
               <div className="text-xl lg:text-2xl font-[AllertaStencil] bg-[#040F16]/[.50] mt-[50px] lg:mt-[70px] rounded-2xl w-[250px] h-[80px] lg:w-[470px] lg:h-[80px] text-center py-1 lg:pt-[23px] hover:bg-green-800 hover:text-zinc-300">
@@ -115,7 +115,7 @@ export default function Projects() {
               <Image
                 src={TechEra}
                 alt=""
-                className="rounded-[20px] mt-[30px] lg:mt-[80px] w-[200px] h-[280px] lg:w-[280px] lg:h-[400px]"
+                className="rounded-[20px] mt-[30px] lg:mt-[80px] w-[200px] h-[280px] lg:w-[280px] lg:h-[400px] shadow-sm shadow-black"
               />
 
               <div className="text-xl lg:text-2xl font-[AllertaStencil] bg-[#040F16]/[.50] mt-[10px] lg:mt-[40px] rounded-2xl w-[250px] h-[70px] lg:w-[470px] lg:h-[80px] text-center py-1.5 lg:pt-[23px] hover:bg-green-800 hover:text-zinc-300">
@@ -133,7 +133,7 @@ export default function Projects() {
               <Image
                 src={Lotus}
                 alt=""
-                className="rounded-[20px] mt-[30px] lg:mt-[80px] w-[200px] h-[280px] lg:w-[280px] lg:h-[400px]"
+                className="rounded-[20px] mt-[30px] lg:mt-[80px] w-[200px] h-[280px] lg:w-[280px] lg:h-[400px] shadow-sm shadow-black"
               />
 
               <div className="text-xl lg:text-2xl font-[AllertaStencil] bg-[#040F16]/[.50] mt-[10px] lg:mt-[40px] rounded-2xl w-[250px] h-[70px] lg:w-[470px] lg:h-[80px] text-center py-1.5 lg:pt-[23px] hover:bg-green-800 hover:text-zinc-300">
@@ -151,7 +151,7 @@ export default function Projects() {
               <Image
                 src={Spectrum}
                 alt=""
-                className="rounded-[20px] mt-[30px] lg:mt-[80px] w-[200px] h-[280px] lg:w-[280px] lg:h-[400px]"
+                className="rounded-[20px] mt-[30px] lg:mt-[80px] w-[200px] h-[280px] lg:w-[280px] lg:h-[400px] shadow-sm shadow-black"
               />
 
               <div className="text-xl lg:text-2xl font-[AllertaStencil] bg-[#040F16]/[.50] mt-[10px] lg:mt-[40px] rounded-2xl w-[250px] h-[70px] lg:w-[470px] lg:h-[80px] text-center py-1.5 lg:pt-[23px] hover:bg-green-800 hover:text-zinc-300">
